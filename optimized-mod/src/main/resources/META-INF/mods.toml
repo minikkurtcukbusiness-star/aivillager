@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="aivillager"
+version="1.0.0-optimized"
+displayName="Intelligent Villagers Optimized"
+authors="Minik Kurtcuk"
+description='''Performance-focused autonomous village simulation for Minecraft 1.20.1 Forge.'''
